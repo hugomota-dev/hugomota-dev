@@ -2,7 +2,7 @@
 
 > "Tecnologia é movimento: estou sempre pedalando rumo ao próximo conhecimento, evoluindo a cada curva."
 
-Sou Técnico em TIC e estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e pelo universo do desenvolvimento front-end. Atualmente, estou trilhando meus primeiros quilômetros no mundo do HTML, CSS e JavaScript, acreditando que cada linha de código é uma nova oportunidade de aprendizado.
+Sou Técnico em informática a mais de 6 anos e estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e pelo universo do desenvolvimento front-end. Atualmente, estou trilhando meus primeiros quilômetros no mundo do HTML, CSS e JavaScript, acreditando que cada linha de código é uma nova oportunidade de aprendizado.
 
 - 🚀 Em busca constante de evolução, tanto em habilidades técnicas (hard skills) quanto comportamentais (soft skills).
 - 🌱 Aprendendo e praticando as bases do desenvolvimento web.

@@ -22,7 +22,7 @@ Fora das telas, sou ciclista nas horas vagas. Prefiro a bike aos automóveis, po
 
 ---
 
-## Projetos em destaque
+## Aprendendo
 
 - [Curso em Vídeo JavaScript](https://github.com/hugomota-dev/curso-em-video-javascript)
 - [Aprendizado em Desenvolvimento Web](https://github.com/hugomota-dev/aprendizado-desenvolvimento-web)
